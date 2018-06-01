@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=void\ act()
+comment0.text=\nControls\ the\ direction\ of\ the\ SpaceShip\ and\ plays\ the\ corresponding\ \nsound\ based\ on\ the\ number\ of\ acts.\ The\ game\ gets\ very\ slow\ if\ the\ \nsound\ is\ played\ at\ every\ act.\n\n
+comment1.target=boolean\ hitAsteroid()
+comment1.text=\nChecks\ if\ the\ SpaceShip\ has\ hit\ the\ Asteroid\n\n
+numComments=2

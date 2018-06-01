@@ -1,0 +1,4 @@
+#BlueJ class context
+comment0.target=void\ act()
+comment0.text=\nMakes\ the\ asteroid\ sroll\ through\ the\ screen\ and\ disapear\nonce\ they\ have\ reached\ the\ left\ end\ of\ the\ screen\n\n
+numComments=1

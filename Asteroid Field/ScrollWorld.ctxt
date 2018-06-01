@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=ScrollWorld()
+comment1.target=void\ act()
+comment1.text=\nConstructs\ the\ initial\ scenario\ and\ the\ functioning\ of\ the\ game.\ \n\n
+comment2.params=position
+comment2.target=void\ paint(int)
+comment2.text=\nPaint\ scrolling\ image\ at\ given\ position\ and\ make\ sure\ the\ rest\ of\ \nthe\ background\ is\ also\ painted\ with\ the\ same\ image.\ \n\n
+comment3.params=width\ height
+comment3.target=GreenfootImage\ getScrollingImage(int,\ int)
+comment3.text=\nReturns\ an\ image\ with\ the\ given\ dimensions.\ \n\n
+comment4.target=void\ spaceShipExplodes()
+comment4.text=\nAdds\ the\ object\ Explosion\ at\ the\ Spaceship\ coordinates\n\n
+comment5.target=void\ gameOver()
+comment5.text=\nAdds\ the\ GameOver\ object\ and\ terminates\ the\ game\n\n
+numComments=6
