@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=OtherActors1
+comment0.text=\n\ Write\ a\ description\ of\ class\ OtherActors1\ here.\n\ \n\ @author\ (your\ name)\ \n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=
+comment1.target=void\ act()
+comment1.text=\n\ Act\ -\ do\ whatever\ the\ OtherActors1\ wants\ to\ do.\ This\ method\ is\ called\ whenever\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\n
+comment2.params=
+comment2.target=void\ moveOA1()
+comment2.text=\n\ Move\ the\ car\ to\ the\ right\ automatically.\n
+comment3.params=
+comment3.target=void\ removeOA1()
+comment3.text=\n\ Removes\ the\ object\ when\ it\ reaches\ the\ right\ edge.\n
+comment4.params=clss
+comment4.target=void\ hit(java.lang.Class)
+comment4.text=\n\ Checks\ if\ the\ frog\ has\ been\ hit\ by\ a\ car.\ If\ it\ is,\ remove\ the\ object.\n
+comment5.params=clss
+comment5.target=boolean\ canSee(java.lang.Class)
+comment5.text=\n\ Return\ true\ if\ we\ can\ see\ an\ object\ of\ class\ 'clss'\ right\ where\ we\ are.\ \n\ False\ if\ there\ is\ no\ such\ object\ here.\n
+comment6.params=
+comment6.target=void\ gameOver()
+numComments=7
